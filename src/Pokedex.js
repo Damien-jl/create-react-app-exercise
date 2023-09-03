@@ -12,7 +12,7 @@ function Pokedex (props) {
                 id = {poke.id}
                 name = {poke.name}
                 type = {poke.type}
-                exp = {poke.xp}
+                exp = {poke.base_experience}
                 />
             ))}
         </div>

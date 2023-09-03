@@ -10,6 +10,7 @@ function Pokecard (props) {
             <div className='Poke-title'>{props.name}</div>
             <img className='Poke-img' src = {imgSrc} />
             <div className='Poke-type'>{props.type}</div>
+            <div className='Poke-xp'>XP: {props.exp}</div>
         </div>
     )
 }
