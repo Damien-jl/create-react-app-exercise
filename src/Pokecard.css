@@ -1,0 +1,13 @@
+.Card {
+    background-color: lightgray;
+    margin: 1em;
+    border-radius: 12px;
+    display: inline-block;
+    text-align: center;
+    padding: 1em;
+}
+
+.Poke-title {
+    color: blue;
+    font-weight: bold;
+}

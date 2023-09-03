@@ -1,4 +1,5 @@
 import React from 'react'
+import './Pokecard.css'
 const PokeApi = 'https://raw.githubusercontent.com/' +
 'PokeAPI/sprites/master/sprites/pokemon/';
 

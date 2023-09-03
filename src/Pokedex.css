@@ -1,0 +1,21 @@
+.Pokedex {
+    max-width: 80%;
+    margin: auto;
+    overflow: auto;
+    text-align: center;
+}
+
+.Pokedex-title {
+    margin: auto;
+    width: 15%;
+    color: lightgray;
+}
+
+.Cards {
+    margin: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 5px;
+    overflow: auto;
+}
